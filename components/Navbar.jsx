@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav style={{ background: "lightblue" }}>
       <h1>
-        <Link href="/">esta es la barra de navegacion que va al home</Link>
+        <Link href="/">Esta es la navegacion</Link>
       </h1>
       <ul>
         <li>
